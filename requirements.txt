@@ -1,0 +1,4 @@
+tapi
+uvicorn
+scikit-learn
+numpy
